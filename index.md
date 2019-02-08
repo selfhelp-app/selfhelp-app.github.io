@@ -14,7 +14,7 @@ In 21st century, mental disorder is rising rapidly. According to a survey of Anx
 ```under development```
 
 ### Download android APK from following link
-[self-help mobile application](./apk/self-help.apk)
+[self-help mobile application](./apk/selfhelp-alpha.apk)
 
 
 ### Support or Contact
