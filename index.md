@@ -10,8 +10,9 @@ You can use the [editor on GitHub](https://github.com/selfhelp-app/selfhelp-app.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Download android APK from following link
-[self-help mobile application](./apk/self-help.apk)
-
+<p align="center">
+  [self-help mobile application](./apk/self-help.apk)
+</p>
 
 ### Support or Contact
 
