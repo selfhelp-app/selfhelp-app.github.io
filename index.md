@@ -4,7 +4,7 @@ In 21st century, mental disorder is rising rapidly. According to a survey of Anx
 
 ## Welcome 
 <p align="center">
-  <img src="./images/img-1.png" width="200" height="400" align="center">
+  <img src="./images/img-1.png" width="200" height="350" align="center">
 </p>
 
 You can use the [editor on GitHub](https://github.com/selfhelp-app/selfhelp-app.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
