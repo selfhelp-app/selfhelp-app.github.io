@@ -11,9 +11,7 @@ In 21st century, mental disorder is rising rapidly. According to a survey of Anx
 
 
 
-You can use the [editor on GitHub](https://github.com/selfhelp-app/selfhelp-app.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```under development```
 
 ### Download android APK from following link
 [self-help mobile application](./apk/self-help.apk)
