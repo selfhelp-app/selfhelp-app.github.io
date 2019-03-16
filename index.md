@@ -6,16 +6,10 @@ In 21st century, mental disorder is rising rapidly. According to a survey of Anx
 <img src="./images/img-0.png" width="200" height="350"> <img src="./images/img-1.png" width="200" height="350"><img src="./images/img-2.png" width="200" height="350">  <img src="./images/img-3.png" width="200" height="350"> <img src="./images/img-4.png" width="200" height="350"><img src="./images/img-5.png" width="200" height="350"> <img src="./images/img-6.png" width="200" height="350">
 <img src="./images/1.png" width="200" height="350"> <img src="./images/2.png" width="200" height="350"> <img src="./images/03.png" width="200" height="350"> <img src="./images/4.png" width="200" height="350"> <img src="./images/5.png" width="200" height="350"> <img src="./images/6.png" width="200" height="350"> <img src="./images/yogapose.jpeg" width="200" height="350">
 
-
-
-
-
-
-
 ```under development```
 
 ### Download android APK from following link
-[self-help mobile application](./apk/self-help1.apk)
+[self-help mobile application](./apk/selfhelp-2.0.apk)
 
 ### Please give feedback for our application.
 [Feedback Link](https://docs.google.com/forms/d/e/1FAIpQLSdu3xHjCL1_3lXXW0bO-CkncguCXumnY50AFs-9ZdddlCPaWg/viewform)
